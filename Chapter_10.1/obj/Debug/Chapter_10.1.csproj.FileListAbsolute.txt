@@ -1,0 +1,10 @@
+C:\Users\ketli\Documents\Spring 2021\Advanced .Net\Assigment\Chapter_10.1\Chapter_10.1\bin\Debug\Chapter_10.1.exe.config
+C:\Users\ketli\Documents\Spring 2021\Advanced .Net\Assigment\Chapter_10.1\Chapter_10.1\bin\Debug\Chapter_10.1.exe
+C:\Users\ketli\Documents\Spring 2021\Advanced .Net\Assigment\Chapter_10.1\Chapter_10.1\bin\Debug\Chapter_10.1.pdb
+C:\Users\ketli\Documents\Spring 2021\Advanced .Net\Assigment\Chapter_10.1\Chapter_10.1\obj\Debug\Chapter_10._1.Form1.resources
+C:\Users\ketli\Documents\Spring 2021\Advanced .Net\Assigment\Chapter_10.1\Chapter_10.1\obj\Debug\Chapter_10._1.Properties.Resources.resources
+C:\Users\ketli\Documents\Spring 2021\Advanced .Net\Assigment\Chapter_10.1\Chapter_10.1\obj\Debug\Chapter_10.1.csproj.GenerateResource.cache
+C:\Users\ketli\Documents\Spring 2021\Advanced .Net\Assigment\Chapter_10.1\Chapter_10.1\obj\Debug\Chapter_10.1.csproj.CoreCompileInputs.cache
+C:\Users\ketli\Documents\Spring 2021\Advanced .Net\Assigment\Chapter_10.1\Chapter_10.1\obj\Debug\Chapter_10.1.exe
+C:\Users\ketli\Documents\Spring 2021\Advanced .Net\Assigment\Chapter_10.1\Chapter_10.1\obj\Debug\Chapter_10.1.pdb
+C:\Users\ketli\Documents\Spring 2021\Advanced .Net\Assigment\Chapter_10.1\Chapter_10.1\obj\Debug\Chapter_10.1.csprojAssemblyReference.cache
